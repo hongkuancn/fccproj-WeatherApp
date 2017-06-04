@@ -28,7 +28,7 @@ $(function() {
                 temp = `${data["current"]["temp_c"]} °C`;
                 $("#digital").text(temp);
 
-                //get picture
+                //get weather icon
                 icon = `${data.current.condition.icon}`;
                 pic = "img/" + icon.slice(16);
                 $("#icon").attr("src",pic);
