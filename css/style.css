@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: #FFFFFF;
+}
+
+#title {
+    margin-top: 50px;
+}
+
+#title p {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 80px;
+}
+
+#digital {
+    font-family: 'Baloo Bhaina', cursive;
+    font-size: 50px;
+}
+
+#location p {
+    font-family: 'Coiny', cursive;
+    font-size: 40px;
+}
