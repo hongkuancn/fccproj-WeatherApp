@@ -7,8 +7,9 @@ $(function() {
         pic,
         digi,
         weatherAPI;
-
+    console.log(navigator.geolocation);
     if (navigator.geolocation){
+
         navigator.geolocation.getCurrentPosition(function(pos){
 
             //get geolocation

@@ -1,0 +1,24 @@
+{
+  "name": "Weather",
+  "version": "1.0.0",
+  "description": "*__Note__: To look at a newly-built full-stack Todo List project using React, Redux, ExpressJS and MongoDB, please click [here](https://github.com/hongkuancn/todo-list).*",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongkuancn/fccproj-WeatherApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongkuancn/fccproj-WeatherApp/issues"
+  },
+  "homepage": "https://github.com/hongkuancn/fccproj-WeatherApp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
