@@ -1,5 +1,7 @@
 # Local Weather App
 
+*__Note__: To look at a newly-built full-stack Voting App project using React, Redux, ExpressJS and MongoDB, please click [here](https://github.com/hongkuancn/fccproj-votingapp).*
+
 *__Note__: To look at a newly-built full-stack Todo List project using React, Redux, ExpressJS and MongoDB, please click [here](https://github.com/hongkuancn/todo-list).*
 
 This is a frontend project from freeCodeCamp which can show your local weather.
